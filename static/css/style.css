@@ -1,4 +1,4 @@
-.card {
+.col {
     height: 400px; /* Your height here */
     overflow: hidden;
 }
@@ -7,3 +7,4 @@
     height: 250px; /* Your height here */
     overflow: hidden;
 }
+
